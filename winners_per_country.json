@@ -3,8 +3,16 @@
         "song_number": "18",
         "votes": 10
     },
+    "UK": {
+        "song_number": "8",
+        "votes": 9
+    },
     "PT": {
         "song_number": "8",
+        "votes": 7
+    },
+    "FR": {
+        "song_number": "18",
         "votes": 7
     }
 }
