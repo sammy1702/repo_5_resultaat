@@ -1,22 +1,14 @@
 {
     "DE": {
-        "song_number": "8",
-        "votes": 8
-    },
-    "BE": {
-        "song_number": "18",
-        "votes": 10
+        "song_number": "14",
+        "votes": 40508
     },
     "UK": {
         "song_number": "8",
         "votes": 9
     },
     "PT": {
-        "song_number": "8",
-        "votes": 7
-    },
-    "FR": {
-        "song_number": "18",
-        "votes": 7
+        "song_number": "19",
+        "votes": 40319
     }
 }
