@@ -1,0 +1,107 @@
+[
+    {
+        "country": "FR",
+        "votes": [
+            {
+                "song_number": "18",
+                "count": 39793
+            },
+            {
+                "song_number": "5",
+                "count": 39921
+            },
+            {
+                "song_number": "7",
+                "count": 40260
+            },
+            {
+                "song_number": "23",
+                "count": 39847
+            },
+            {
+                "song_number": "15",
+                "count": 39715
+            },
+            {
+                "song_number": "11",
+                "count": 39717
+            },
+            {
+                "song_number": "3",
+                "count": 39926
+            },
+            {
+                "song_number": "25",
+                "count": 39897
+            },
+            {
+                "song_number": "6",
+                "count": 40013
+            },
+            {
+                "song_number": "13",
+                "count": 39840
+            },
+            {
+                "song_number": "2",
+                "count": 40139
+            },
+            {
+                "song_number": "8",
+                "count": 40084
+            },
+            {
+                "song_number": "21",
+                "count": 39534
+            },
+            {
+                "song_number": "9",
+                "count": 40006
+            },
+            {
+                "song_number": "14",
+                "count": 40141
+            },
+            {
+                "song_number": "12",
+                "count": 40315
+            },
+            {
+                "song_number": "1",
+                "count": 40071
+            },
+            {
+                "song_number": "4",
+                "count": 40037
+            },
+            {
+                "song_number": "19",
+                "count": 40150
+            },
+            {
+                "song_number": "10",
+                "count": 39639
+            },
+            {
+                "song_number": "17",
+                "count": 39968
+            },
+            {
+                "song_number": "16",
+                "count": 40093
+            },
+            {
+                "song_number": "20",
+                "count": 40396
+            },
+            {
+                "song_number": "22",
+                "count": 40274
+            },
+            {
+                "song_number": "24",
+                "count": 40224
+            }
+        ]
+    }
+]
